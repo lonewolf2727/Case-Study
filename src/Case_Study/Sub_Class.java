@@ -10,7 +10,7 @@ public class Sub_Class extends Super_Class {
         int sum = i + j + k;
         System.out.println("The sum is: " + sum);
         
-       
+        
         int sum2 = sc.i + sc.j;
         System.out.println("The sum of i and j in Super_Class is: " + sum2);
     }
